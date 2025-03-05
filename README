@@ -1,5 +1,19 @@
-Website represent a rock-paper-scissors game with auto-play, button-reset-score, and save your result every time you came again to website.
-------
-https://dominik9123.github.io/rock-paper-scissors/
-------
-
+--- PL --- 
+Rock Paper Scissors
+- - - Opis projektu - - -
+Gra papier, kamień, nożyce pozwalająca na rozgrywkę z komputerem lub w trybie automatycznym. Wyniki każdej gry są zapisywane w Local Storage, dzięki czemu można śledzić historię wyników.
+- - - Technologie - - -
+HTML, CSS, JavaScript
+- - -
+Funkcje - Rozgrywka z komputerem, Tryb automatyczny, Zapis wyników w Local Storage, Prosty interfejs użytkownika.
+- - -
+Uruchomenie Projektu 
+Link : https://dominik9123.github.io/rock-paper-scissors/
+Sklonuj Repozytorium : git clone https://github.com/Dominik9123/rock-paper-scissors.git -> otwórz plik index.html w przeglądarce
+--- EN --- 
+Project Description -> A rock-paper-scissors game that allows you to play against the computer or in automatic mode. The results of each game are saved in Local Storage, allowing you to track the history of results.
+Technologies - > HTML CSS JavaScript
+Features - Gameplay with the computer, Automatic mode, Saving results in Local Storage, Simple user interface.
+- - - 
+Launching the Project Link: https://dominik9123.github.io/rock-paper-scissors/
+Clone the Repository: git clone https://github.com/Dominik9123/rock-paper-scissors.git-> open the index.htmlfile in your browser.
